@@ -9,8 +9,9 @@ import models.*;
 
 public class Application extends Controller {
 
-    public static void index() {
-        render();
+    public static void test() {
+    	Client client = new Client();
+        renderJSON(client);
     }
 
 }

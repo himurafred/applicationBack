@@ -1,2 +1,6 @@
 /lib
 /tmp
+/modules/
+/precompiled/
+/war/
+
